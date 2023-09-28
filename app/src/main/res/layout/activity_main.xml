@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/gray"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/teal_700">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_marginStart="8dp"
+            android:fontFamily="@font/mulish"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/white">
+
+<!--            section fitur artikel -->
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/vp_artikel"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_margin="16dp"/>
+            
+            <LinearLayout
+                android:id="@+id/ll_slider_dots"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:orientation="horizontal"/>
+<!--            End section artikel -->
+
+<!--            Section fitur dzikr dan doa -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="16dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_fitur_doa_dan_dzikr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    android:fontFamily="@font/mulish"
+                    android:text="@string/txt_judul_fitur"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_700"
+                    android:textSize="22sp"
+                    android:textStyle="bold"/>
+
+<!--                Section Doa Ketika Shalat -->
+                <ImageButton
+                    android:id="@+id/img_btn_dzikr_doa_solat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/btn_doa_sholat"
+                    android:orientation="horizontal"
+                    android:contentDescription="@string/btn_icon_desc"
+                    style="?android:attr/borderlessButtonStyle"/>
+<!--                End Doa Ketika Shalat -->
+
+<!--                Section dizkr setelah salat -->
+
+                <ImageButton
+                    android:id="@+id/img_btn_dzikir_setelah_shalat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/btn_dzikir_setelah_salat"
+                    android:contentDescription="@string/btn_icon_desc"
+                    style="?android:attr/borderlessButtonStyle"/>
+<!--                End section dzikr setelah salat -->
+
+
+<!--                Section dzikr dan doa harian -->
+
+                <ImageButton
+                    android:id="@+id/img_btn_dzikir_doa_harian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/btn_dzikir_dan_doa_harian"
+                    android:contentDescription="@string/btn_icon_desc"
+                    style="?android:attr/borderlessButtonStyle"/>
+<!--                End section dzikr dan doa harian -->
+
+<!--                Section dzikr pagi dan petang -->
+                <ImageButton
+                    android:id="@+id/img_btn_dzikir_pagi_petang"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/btn_dzikir_pagi_dan_petang"
+                    android:contentDescription="@string/btn_icon_desc"
+                    style="?android:attr/borderlessButtonStyle"/>
+<!--                End section dzikr pagi dan petang -->
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+
+</LinearLayout>

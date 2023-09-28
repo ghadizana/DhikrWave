@@ -1,0 +1,259 @@
+<resources>
+    <string name="app_name">DhikrWave</string>
+
+    <string name="txt_judul_fitur">Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah_qauliyah">Doa Ketika Shalat</string>
+    <string name="txt_dzikir_setiap_saat">Dzikir Setelah Shalat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+
+    <string name="content_txt_icon_dzikir_pagi_petang">Icon Dzikir Pagi Petang</string>
+    <string name="content_txt_icon_dzikir_doa_harian">Icon Dzikir Doa Harian</string>
+    <string name="content_txt_icon_dzikir_setiap_saat">Icon Dzikir Setiap Saat</string>
+    <string name="content_txt_icon_qauliyah_shalat">Icon Qauliyah Shalat</string>
+    <string name="content_txt_icon_btn_dzikir_pagi">Icon btn dzikir Pagi</string>
+    <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
+    <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
+    <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+    <string name="artikel_islami">Artikel</string>
+    <string name="name">Nama saya Ghadiza Naura Aliya</string>
+    <string name="btn_icon_desc">Button Dzikir Ketika Salat</string>
+
+
+    <string-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/artikel_2</item>
+        <item>@drawable/artikel_3</item>
+        <item>@drawable/artikel_4</item>
+        <item>@drawable/artikel_5</item>
+        <item>@drawable/artikel_6</item>
+        <item>@drawable/artikel_7</item>
+        <item>@drawable/artikel_8</item>
+    </string-array>
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Amalan Yang Tidak Akan Terputus</item>
+        <item>Jika Melihat Orang Yang Terkena Musibah</item>
+        <item>Childfree Dalam Pandangan Islam</item>
+        <item>Tidak Ada Yang Lebih Baik Daripada Sabar</item>
+        <item>Allah Menghendaki Kebaikan Untukmu</item>
+        <item>Skala Prioritas Dalam Berdoa</item>
+        <item>Berbakti Saat Orang Tua Sudah Meninggal</item>
+    </string-array>
+
+    <string-array name="arr_desc_artikel">
+        <item>
+            Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak.\n\n
+            Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah.\n\n
+            Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup.\n\n
+            Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
+        <item>
+            Dari Abu Hurairah radhiyallahu ‘anhu, ia berkata bahwa Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n\n
+إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلا مِنْ ثَلاثَةٍ : إِلا مِنْ صَدَقَةٍ جَارِيَةٍ ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ
+            \n\n“Jika manusia mati, maka terputuslah amalnya kecuali tiga perkara: (1) sedekah jariyah, (2) ilmu yang diambil manfaatnya, (3) anak shalih yang selalu mendoakan orang tuanya.” (HR. Muslim, no. 1631)\n\n\n
+            Yang dimaksud dalam hadits adalah tiga amalan yang tidak terputus pahalanya:\n\n
+            1. Sedekah jariyah, seperti membangun masjid, menggali sumur, mencetak buku yang bermanfaat serta berbagai macam wakaf yang dimanfaatkan dalam ibadah.\n\n
+            2. Ilmu yang bermanfaat, yaitu ilmu syar’i (ilmu agama) yang ia ajarkan pada orang lain dan mereka terus amalkan, atau ia menulis buku agama yang bermanfaat dan terus dimanfaatkan setelah ia meninggal dunia.\n\n
+            3. Anak yang sholeh karena anak sholeh itu hasil dari kerja keras orang tuanya. Oleh karena itu, Islam amat mendorong seseorang untuk memperhatikan pendidikan anak-anak mereka dalam hal agama, sehingga nantinya anak tersebut tumbuh menjadi anak sholeh. Lalu anak tersebut menjadi sebab, yaitu ortunya masih mendapatkan pahala meskipun ortunya sudah meninggal dunia.
+        </item>
+        <item>
+عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: «مَنْ رَأَى مُبْتَلًى فَقَالَ: الحَمْدُ للهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا لَمْ يُصِبْهُ ذَلِكَ الْبَلَاءُ»
+
+            \n\nDari Abu Hurairah Radhiyallahu anhu berkata, Rasulullah shallallahu alaihi wasallam bersabda, \n\n“Barangsiapa melihat orang yang tertimpa musibah kemudian mengucapkan, ‘Segala puji bagi Allah yang telah menyelamatkanku dari musibah yang diberikan kepadamu dan melebihkanku atas kebanyakan orang yang Dia ciptakan’, maka ia tidak tertimpa musibah tersebut.” (HR. at-Tirmidzi dengan sanad hasan)\n\n\n
+
+            Hikmah yang dapat diambil dari hadits:\n\n
+            1. Disunnahkanya berdoa dengan doa yang termaktub ketika melihat orang yang tertimpa musibah;\n\n
+            2. Barangsiapa yang melihat orang tertimpa musibah lalu ia berdoa dengan doa tersebut Ia tidak tertimpa musibah yang sama;\n\n
+            3. Agungnya keutamaan doa tersebut di dalam hadits;\n\n
+            4. Semangat Nabi shallallahu alaihi wasallam dalam memerhatikan keselamatan umatnya dari berbagai macam penyakit;\n\n
+            5. Agungnya kecintaan para sahabat kepada baginda Nabi yang dibuktikan dengan nukilan mereka yang menyeluruh mengenai perkataan maupun perbuatan baginda Nabi  shallallahu alaihi wasallam.\n\n
+
+            Sumber: diterjemahkan dengan sedikit penyesuaian oleh Muhammad Refanza dari situs https://www.alukah.net/
+        </item>
+        <item>
+            Akhir-akhir ini ramai dibicarakan topik childfree setelah diungkapkan secara terbuka oleh salah seorang influencer tentang pilihannya untuk tidak memiliki anak. Bagaimana hal ini dipandang dalam kacamata Islam? Berikut penjelasannya.\n\n
+            1. Punya anak atau tidak bukan merupakan pilihan kita, tetapi pilihan Allah. Hakikatnya ketika kita dikaruniai anak atau tidak itu bukan pilihan kita tetapi menjadi sebuah ketetapan Allah ta’ala. Karena Allah lah yang akan memberi atau tidak memberi.\n\n
+
+            2. Memiliki anak adalah salah satu tujuan dalam pernikahaan. Allah menetapkan syariat nikah salah satunya untuk melanjutkan keturunan juga merupakan salah satu bagian dari pernikahan.\n\n
+
+            3. Kehilangan satu kesempatan pahala yang mengalir saat meninggal. Ketika kematian menimpa dan sudah tidak mungkin bagi kita untuk beramal, tentu kita menginginkan pahala yang terus mengalir menemani kita di alam kubur. Salah satunya adalah melalui doa anak yang shalih.\n\n
+
+            Mungkin akan ada yang menyanggah, “Kan masih ada sedekah jariyah dan ilmu yang bermanfaat, atau amalan lainnya yang juga mengalir saat kita meninggal?” maka kita jawab, memang betul, tetapi sebagai seorang hamba yang diwajibkan beribadah, dia akan memanfaatkan segala kesempatan. Kalau kita balik pertanyaannya, “Yakin sedekah jariyahnya bisa mengalir pahala? Yakin ilmu kita sudah bermanfaat?” Maka kesempatan-kesempatan yang ada kita manfaatkan semuanya. Jika tidak dari sedekah, bisa dari anak shalih atau ilmu yang manfaat.\n\n
+
+            4. Kehilangan syafaat dari anak yang meninggal dunia. Dalam sebuah hadits Rasulullah  shallallahu ‘alaihi wasallam bersabda, “Tidaklah seorang muslim yang ditinggal wafat oleh tiga orang anaknya yang belum baligh kecuali Allah akan memasukkannya ke dalam Surga karena keutamaan rahmat-Nya kepada mereka”. (HR. Bukhari, no. 1381)\n\n
+
+            5. Kehilangan salah satu cara diangkat kedudukannya di Surga. Masuk ke dalam Surga merupakan sebuah keinginan yang besar bagi kita. Bahkan sebenarnya ketika kita mendapatkan derajat yang rendah di Surga pun sudah termasuk sebuah kenikmatan. Namun, Rasulullah mengajarkan kepada kita agar mengharapkan tingkatan Surga yang paling tinggi.\n\n
+            Bisa jadi seseorang berada di derajat yang rendah namun dia diangkat karena sebab anak.\n\n
+            Rasulullah shalallahu alaihi wasallam juga bersabda,\n
+            إِنَّ الرَّجُلَ لَتُرْفَعُ دَرَجَتُهُ فِي الْجَنَّةِ فَيَقُولُ أَنَّى لِيْ هَذَا فَيُقَالُ بِاسْتِغْفَارِ وَلَدِكَ لَكَ \n
+
+            Sesungguhnya ada seseorang yang diangkat kedudukannya di Surga kelak. Ia pun bertanya, “Bagaimana hal ini?” Maka dijawab: “Lantaran istighfar anakmu untukmu. (HR. Ibnu Majah)\n\n
+
+            Arif Ardiansyah, Lc dari berbagai sumber.
+        </item>
+        <item>
+عَنْ أُمِّ سَلَمَةَ رَضِيَ اللَّهُ عَنْهَا زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَت: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: مَا مِنْ عَبْدٍ تُصِيبُهُ مُصِيبَةٌ فَيَقُولُ (إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ) اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا إِلَّا أَجَرَهُ اللَّهُ فِي مُصِيبَتِهِ وَأَخْلَفَ لَهُ خَيْرًا مِنْهَا، قَالَتْ: فَلَمَّا تُوُفِّيَ أَبُو سَلَمَةَ قُلْتُ كَمَا أَمَرَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْلَفَ اللَّهُ لِي خَيْرًا مِنْهُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم \n\n
+            Diriwayatkan dari Ummu Salamah radhiyallahu ’anha –istri Nabi shallallahu ‘alaihi wasallam- berkata, “Aku mendengar Rasulullah shallallahu ‘alaihi wasallam bersabda, ‘Tidak ada seorang hamba pun yang tertimpa suatu musibah lalu ia mengucapkan INNAA LILLAHI WA INNAA ILAIHI ROOJI’UN. ALLAHUMMA’JURNII FII MUSHIBATII WA AKHLIF LII KHOIRON MINHAA (Segala sesuatu adalah milik Allah dan akan kembali pada-Nya. Ya Allah, berilah ganjaran terhadap musibah yang menimpaku dan berilah ganti dengan yang lebih baik) melainkan Allah akan memberinya pahala dalam musibahnya dan menggantinya dengan yang lebih baik.’” Ummu Salamah kembali berkata: “Ketika Abu Salamah (suamiku) wafat, aku pun mengucapkan doa sebagaimana yang Rasulullah shallallahu ‘alaihi wasallam ajarkankan padaku. Maka Allah pun memberiku suami yang lebih baik dari suamiku yang dulu yaitu Rasulullah shallallahu ‘alaihi wasallam.” (HR. Muslim, no. 1526)\n\n
+            Faedah Hadits:\n\n
+            1. Keluasan rahmat Allah dimana dalam musibah ada pahala yang banyak dan ganti yang lebih baik bagi mereka yang bersabar;\n\n
+            2. Syariat membaca doa sebagaimana yang diajarkan Rasulullah shallallahu ‘alaihi wasallam saat seseorang mendapatkan musibah;\n\n
+            3. Kewajiban berperasangka baik kepada Allah ta’ala dalam setiap kondisi dan keadaan;\n\n
+            4. Keteladanan dalam diri Ummu Salamah radhiyallahu ‘anha dalam kesabaran saat mendapatkan musibah;\n\n
+            5. Janji Allah pasti benar, barang siapa yang bersabar saat musibah niscaya Allah akan berikan ganti yang lebih baik di dunia ataupun di akhirat.\n\n
+
+            Wallahu a’lam.\n\n
+
+            Oleh Ustadz Mahful Safarudin, Lc
+        </item>
+        <item>
+            Diriwayatkan dari Anas ibn Malik radhiyallahu ’anhu berkata: Rasulullah shallallahu’alaihi wasallam bersabda:\n\n
+
+            “Apabila Allah menghendaki kebaikan untuk hamba-Nya maka Dia akan menyegerakan untuknya hukuman di dunia. Dan apabila Allah menghendaki kejelekan untuk hamba-Nya maka Dia akan menahan darinya hukuman karena dosanya sehingga kelak di akhirat Dia akan menyempurnakan hukuman untuknya” (HR. At-Tirmidzi, no. 2319 dengan sanad yang hasan)\n\n
+
+            Faedah Hadits:\n
+            1. Penetapan adanya sifat “Iradah” (Kuasa) bagi Allah yang sesuai dengan keagungan dan kemuliaan-Nya.\n\n
+            2. Salah satu tanda Allah menghendaki kebaikan kepada hamba-Nya adalah dengan memberikan musibah dan ujian kepadanya sebagai hukuman atas dosa dan maksiat yang dia lakukan.\n\n
+            3. Dan salah satu tanda Allah menghendaki kejelekan kepada hamba-Nya adalah dengan membiarkan hamba tersebut terus dalam kemaksiatan tanpa teguran dan peringatan dari-Nya berupa musibah dan cobaan.\n\n
+            4. Dosa dan maksiat merupakan sebab turunnya musibah dan cobaan maka hadapilah dengan sabar, syukur, taubat dan memperbanyak istighfar (memohon ampunan) kepada Allah.\n\n
+            Ali ibn Abi Thalib radhiyallahu ‘anhu berkata,\n\n
+            “Tidaklah musibah itu turun melainkan karena dosa dan tidak diangkat melainkan dengan taubat.”\n\n
+            5. Musibah dan cobaan yang dialami seorang mukmin merupakan tanda kebaikan yang Allah berikan kepadanya. Maka hendaknya dia menghadapinya dengan kesabaran dan selalu berperasangka baik kepada Allah.\n\n
+
+            Disarikan dari Kajian Online WAG Tarbiyatun Nisaa’ oleh Ustadz Mahful Safarudin, Lc.
+        </item>
+        <item>
+            Apa perkara penting yang hendaknya diminta oleh seorang Muslim kepada Allah di pagi dan malam hari? Doa apa sajakah yang hendaknya dipanjatkan oleh seorang muslim terus-menerus kepada Tuhan-Nya di malam dan siang?\n\n
+            Jawabannya adalah: Segala yang dibutuhkan di dalam perkara agama dan dunianya.\n\n
+
+            Lalu apa saja perkara penting dan agung yang di dalamnya terkandung kebahagiaan dunia dan akhirat yang hendaknya senantiasa diminta oleh seorang hamba kepada Allah?\n\n
+
+            1. Hidayah\n
+            Hendaknya seorang muslim meminta hidayah (petunjuk) kepada Allah menuju jalan yang lurus. Karena hidayah itu ada di tangan Allah azza wa jalla.\n\n
+            2. Ampunan\n
+            Hendaknya seorang muslim juga memohon ampunan kepada Allah dari dosa-dosa yang dilakukannya. Karena Allahlah satu-satunya Dzat yang maha mengampuni dosa seluruhnya bagi siapa yang bertobat.\n\n
+            3. Meminta Surga\n
+            Perkara selanjutnya yang hendaknya diminta oleh seorang muslim kepada Allah adalah meminta Surga dan dijauhkan dari Neraka.\n\n
+            4. Keselamatan Dunia dan Akhirat\n
+            Berikutnya, hendaknya seorang muslim meminta pemaafan dan keselamatan di dunia dan akhirat.\n\n
+            Dari Abu al-Fadhl al-Abbas bin Abdul Mutthalib Radhiallahu anhu, ia berkata: Aku berkata, “Wahai Rasulullah, ajarkanlah kepadaku sesuatu yang aku minta kepada Allah ta’ala”. Beliau menjawab,“Mintalah keselamatan kepada Allah.” Lalu aku tinggal selama beberapa hari, kemudian menemui beliau lagi, lalu berkata, “Wahai Rasulullah, ajarkanlah aku sesuatu yang aku minta kepada Allah ta’ala-.” Beliau berkata kepadaku, “Wahai Abbas, wahai paman Rasulullah, mintalah keselamatan kepada Allah di dunia dan akhirat.” (HR. at-Tirmidzi dan Ahmad)\n\n
+            5. Ketetapan di Dalam Agama Islam\n
+            Hendaknya seorang muslim tak lupa untuk meminta kepada Allah agar diberikan ketetapan di dalam agama Islam.\n\n
+
+            Di antara doa Nabi shalallahu alaihi wasalam adalah,\n
+
+            يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِى عَلَى دِينِكَ \n\n
+
+            “Wahai Dzat yang Maha Membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu.” (HR. At-Tirmidzi, Imam Ahmad dan Al-Hakim. Lihat Shahih Sunan At-Tirmidzi).\n\n
+
+            Do’a ini merupakan doa yang paling sering dipanjatkan oleh Nabi shalallahu alaihi wasalam.\n\n
+
+            Juga doa beliau shalallahu alaihi wasalam,\n
+
+            اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ \n\n
+
+            “Ya Allah, Yang membolak-balik hati, palingkanlah hati kami menuju ketaatan kepada-Mu” (HR. Muslim)\n\n
+            6. Meminta Diberikan Nikmat\n
+            Seorang muslim hendaknya meminta agar Allah terus memberikan nikmat dan berlindung dari hilangnya kenikmatan.\n\n
+            7. Ilmu Yang Bermanfaat\n
+            Bagi seorang muslim hendaknya senantiasa meminta kepada Allah ilmu yang bermanfaat, rizki yang halal dan amal yang senantiasa diterima.\n\n
+
+            Demikian beberapa doa-doa penting yang mencakup kebahagiaan dunia dan akhirat yang hendaknya kita panjatkan. Semoga Allah mudahkan kita untuk terus berdoa dan semoga ini bermanfaat. Wallahu a’lam\n\n
+
+            Arif Ardiansyah, Lc\n\n
+
+            Disadur dari kitab Al-Jami’ Fi ad dua’ tulisan Syaikh Abu Islam Shalih bin Thaha Abdul Wahid
+        </item>
+        <item>
+            Berbakti kepada orang tua tidak hanya dilakukan pada saat keduanya masih hidup, tetapi juga ketika mereka sudah meninggal. Pada kesempatan ini akan kami sampaikan bagaimana berbakti kepada kedua orang tua tatkala mereka sudah meninggal.\n\n
+
+            Dari Abu Usaid Malik bin Rabi’ah As-Sa’idi, berkata, “Ketika kami berada di sisi Rasulullah shallallahu ‘alaihi wa sallam. Tiba-tiba datang seseorang dari Bani Salimah, ia berkata, “Wahai Rasulullah, apakah masih ada bentuk berbakti kepada kedua orang tuaku ketika mereka telah meninggal dunia?” Rasulullah shallallahu ‘alaihi wa sallam menjawab,\n
+
+             نَعَمِ الصَّلاَةُ عَلَيْهِمَا وَالاِسْتِغْفَارُ لَهُمَا وَإِنْفَاذُ عَهْدِهِمَا مِنْ بَعْدِهِمَا وَصِلَةُ الرَّحِمِ الَّتِى لاَ تُوصَلُ إِلاَّ بِهِمَا وَإِكْرَامُ صَدِيقِهِمَا \n\n
+
+            “Iya mendoakan keduanya, meminta ampun untuk keduanya, memenuhi janji mereka setelah meninggal dunia, menjalin hubungan silaturahim (kekerabatan) dengan keluarga kedua orang tua yang tidak pernah terjalin dan memuliakan teman dekat keduanya.” (HR. Abu Daud dan Ibnu Majah)\n\n
+
+            Bagaimana Rinciannya?\n\n
+
+            1. Bersungguh-sungguh dalam beramal.\n
+            2. Mendoakan kedua orang tua dan meminta ampunan untuknya.\n
+            3. Menyambung silaturahim.\n
+            4. Bersedekah atas nama orang tua.\n\n
+
+            Demikianlah bentuk berbakti ketika kedua orang tua kita sudah meninggal. Wallahu a’lam bishawab.\n\n
+
+            Arif Ardiansyah, Lc\n\n
+
+            Sumber: Tabsiratul anam bilhuquqi fil Islam, Shalih bin Thaha Abdul Wahid dengan beberapa tambahan dari sumber lain.
+        </item>
+        </string-array>
+
+    <string-array name="arr_dzikir_doa_harian">
+        <item>Doa Sebelum Tidur</item>
+        <item>Doa Ketika Mimpi Buruk</item>
+        <item>Doa Bangun Tidur</item>
+        <item>Doa Masuk WC/ Kamar Mandi</item>
+        <item>Doa Keluar WC/ Kamar Mandi</item>
+        <item>Doa Sebelum Wudhu</item>
+        <item>Doa Setelah Wudhu</item>
+        <item>Doa Mengenakan Pakaian</item>
+        <item>Doa Melepas Pakaian</item>
+        <item>Doa Keluar Rumah</item>
+        <item>Doa Masuk Rumah</item>
+        <item>Doa Pergi ke Masjid</item>
+        <item>Doa Masuk ke Masjid</item>
+        <item>Doa Keluar dari Masjid</item>
+        <item>Doa Ketika Mendengar Adzan</item>
+        <item>Doa Setelah Adzan</item>
+        <item>Doa Bersin</item>
+        <item>Doa Ketika Diberikan Kebaikan/ Sesuatu</item>
+        <item>Doa Ketika marah</item>
+    </string-array>
+
+    <string-array name="arr_lafaz_dzikir_doa_harian">
+        <item>Mengumpulkan dua telapak tangan, lalu ditiup dan dibacakan:\n\nSurat Al-Ikhlas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾ \n\nSurat Al-Falaq:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَۙ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ﴿٣﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾ \n\nAn-Naas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ﴿١﴾ مَلِكِ النَّاسِۙ ﴿٢﴾ اِلٰهِ النَّاسِۙ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ﴿٤﴾ الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾\nAyat Kursi:\nٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ\nKetika sudah berbaring baca doa:\nاَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ\n\nبِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ</item>
+        <item>Membaca isti\'adzah:\nأَعُوذُ بِاَللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِْ\nlalu meludah tipis (meniup disertai sedikit liur) ke sebelah kirinya sebanyak tiga kali.\nDemikian juga merubah posisi tidur. Bahkan dianjurkan untuk bangun dan shalat.</item>
+        <item>الحَمْدُ ِللهِ الَّذِي أَحْيَاناَ بَعْدَ مَا أَمَاتَنَا وَ إِلَيْهِ النُّشُوْرُ</item>
+        <item>اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ</item>
+        <item>غُفْرَانَكَ</item>
+        <item>بسم الله</item>
+        <item>Pertama:\nأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ\n\nKedua:\nسُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ</item>
+        <item>اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ</item>
+        <item>بسم الله</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</item>
+        <item>Pertama:\nبسم الله\n\Kedua:\nالسلام عليكم</item>
+        <item>اللّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْراً، وَفِي لِسَانِي نُوْراً، وَاجْعَلْ وَفِي سَمْعِي نُوْراً، وَاجْعَلْ فِي بَصَرِي نُوْراً، وَاجْعَلْ مِنْ خَلْفِي نُوْراً، وَمِنْ أَمَامِي نُوْراً، وَاجْعَلْ مِنْ فَوْقِي نُوْراً، وَمِنْ تَحْتِي نُوْراً، اللّهُمَّ أَعْطِنِي نُوْراً</item>
+        <item>Pertama:\nاللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKedua:\nوَالصَّلَاةُ وَالسَّلاَمُ عَلَى رَسُولِ اللهِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKetiga:\nأَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+        <item>اللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ</item>
+        <item>Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat:\nHayya \'alash shalaah\n\ndan\n\nHayya \'alal falaah. Maka mengucapkan:\nلاحول ولا قوة الا بالله</item>
+        <item>اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ</item>
+        <item>Yang bersin mengucapkan:\nالحمد لله\nYang mendengar hamdalah mengucapkan:\nيَرْحَمُكَ اللهُ\nBila teman atau saudaranya mengucapkan (yarhamukallah), maka yang bersin membalas dengan:\nيَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</item>
+        <item>جزاك الله خيراً</item>
+        <item>أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+    </string-array>
+
+    <string-array name="arr_terjemah_dzikir_doa_harian">
+        <item>Surat Al-Ikhlas:\n\"Katakanlah: Dialah Allah Yang Maha Esa. Allah adalah ilah yang bergantung kepada-Nya segala urusan. Dia tidak beranak dan tiada pula diperanakkan. Dan tidak ada seorang pun yang setara dengan Dia.\"\n\nSurat Al-Falaq:\n\"Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. Dari kejahatan makhluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.\"\n\nAn-Naas:\n\"Katakanlah: Aku berlindung kepada Rabb manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada manusia. Dari jin dan manusia.\"\n\nAyat Kursi:\n\"Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa\'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang dia hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah melliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar.\"\n\nKetika sudah berbaring baca doa:\n\"Ya Allah, aku serahkan jiwaku kepada-mu, aku hadapkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu, aku sandarkan punggungku kepada-Mu, karena mengharapkan (pahala-Mu) dan takut (adzab-Mu). Tiada tempat bersandar dan menyelamatkan diri dari (hukuman)-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus.\"\n\n\"Dengan nama Engkau, wahai Rabbku, aku meletakkan lambungku. Dan dengan nama-Mu pula aku bangun dari padanya. Apabila Engkau menahan rohku maka berilah rahmat padanya. Tapi apabila Engkau melepaskannya maka peliharalah, sebagaimana Engkau memelihara hamba-hambaMu yang shalih.\"</item>
+        <item>\"Aku memohon perlindungan kepada Allah dari setan yang terkutuk.\"</item>
+        <item>\"Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dikumpulkan.\"</item>
+        <item>\"Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keburukan dan jin.\"</item>
+        <item>\"Aku minta ampun kepadaMu.\"</item>
+        <item>\"Dengan nama Allah (aku berwudhu).\"</item>
+        <item>Pertama:\n\"Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.\"\n\nKedua:\n\"Maha Suci Engkau ya Allah, aku memujiMu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan betaubat kepada-Mu.\"</item>
+        <item>\"Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.\"</item>
+        <item>\"Dengan nama Allah (aku meletakkan baju).\"</item>
+        <item>\"Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.\"</item>
+        <item>Pertama:\n\"Dengan nama Allah.\"\n\n\Kedua:\n\"Semoga keselamatan atas kalian.\"</item>
+        <item>\"Ya Allah, jadikanlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.\"</item>
+        <item>Pertama:\n\"Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKedua:\n\"Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKetiga:\n\"Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkuturk.\" </item>
+        <item>\"Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.\"</item>
+        <item>\"Tidak ada daya dan upaya kecuali dengan pertolongan Allah\"</item>
+        <item>\"Ya Allah, Rabb Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkan beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan.\"</item>
+        <item>(Alhamdulillah) artinya:\n\"Segala puji bagi Allah.\"\n\n(Yarhamukallah) artinya:\n\"Semoga Allah memberikan rahmat kepadamu.\"\n\n\"(Yahdiikumullaahu wa yushlihu baalakum) artinya:\n\"Semoga Allah memberi petunjuk kepadamu dan memperbaiki keadaanmu.\"</item>
+        <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
+        <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
+    </string-array>
+</resources>
